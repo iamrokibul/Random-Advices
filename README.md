@@ -1,3 +1,3 @@
 # Random-Advices
 
-<img src="random-advices.jpeg"/># Random-Advices
+<img src="random_advices.jpeg" />
